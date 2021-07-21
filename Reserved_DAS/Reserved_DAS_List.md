@@ -275,6 +275,8 @@ If you wish to reserve your brand, you can [Apply for Reserved](./Apply_for_Rese
 | automatanetwork.bit                      | block123    |
 | cellarius.bit                            | block123    |
 | clarity.bit                              | block123    |
+| abmedia.bit                              | block123    |
+| zombit.bit                              | block123    |
 | comsa.bit                                | block123    |
 | crowny.bit                               | block123    |
 | egretia.bit                              | block123    |
