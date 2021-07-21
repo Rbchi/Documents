@@ -753,6 +753,7 @@ If you wish to reserve your brand, you can [Apply for Reserved](./Apply_for_Rese
 | steem.bit                                | block123    |
 | trias.bit                                | block123    |
 | blockcloud.bit                           | block123    |
+| blocktempo.bit                           | block123    |
 | counterfactual.bit                       | block123    |
 | kleros.bit                               | block123    |
 | molochdao.bit                            | block123    |
