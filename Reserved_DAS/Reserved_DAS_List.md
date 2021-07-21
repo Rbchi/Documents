@@ -16400,3 +16400,19 @@ If you wish to reserve your brand, you can [Apply for Reserved](./Apply_for_Rese
 | khanacademy.bit                          | similarweb  |
 | zalo.bit                                 | similarweb  |
 | sciencedirect.bit                        | similarweb  |
+| godwoken.bit                             | Nervos Eco  |
+| polyjuice.bit                            | Nervos Eco  |
+| mercury.bit                              | Nervos Eco  |
+| neuron.bit                               | Nervos Eco  |
+| forcebridge.bit                          | Nervos Eco  |
+| capsule.bit                              | Nervos Eco  |
+| muta.bit                                 | Nervos Eco  |
+| riscv.bit                                | Nervos Eco  |
+| overlord.bit                             | Nervos Eco  |
+| tippy.bit                                | Nervos Eco  |
+| eaglesong.bit                            | Nervos Eco  |
+| cryptape.bit                             | block123    |
+| cccvae.bit                               | Nervos Eco  |
+| blocktempo.bit                           |   media     |
+| zombit.bit                               |   media     |
+| abmedia.bit                              |   media     |
